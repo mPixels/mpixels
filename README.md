@@ -1,4 +1,5 @@
 ### Hey I'm Matthew 👋
+## This profile has been redirected to /matthew-tanner, I am the original owner of /matthewtanner. It was hacked/stolen by the current user or group of users running the profile. If you know of anyone at the GitHub staff that can revert this for me please contact me.
 
 I mainly work on server side apps and microservices focused on automation. Generally, my code is in private repos due to security and client agreements. I will post some public things from time to time.
 
