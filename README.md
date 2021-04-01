@@ -2,11 +2,6 @@
 
 I mainly work on server side apps and microservices focused on automation. Generally, my code is in private repos due to security and client agreements. I will post some public things from time to time.
 
-### This profile has been redirected to /matthew-tanner, I am the original owner of /matthewtanner. It was hacked/stolen by the current user or group of users running the profile. If you know of anyone at the GitHub staff that can revert this for me please contact me.
-
-### Update - No response from the stolen account email, they recently updated the profile information so the group or individual is still accessing the account.
-### Support is investigating finally.
-
 ### :open_file_folder: [Tech]
 
 - Python
